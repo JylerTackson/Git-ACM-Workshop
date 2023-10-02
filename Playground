@@ -1,4 +1,10 @@
-My name is : 
-I am a : 
-My major is : 
-I like : 
+My name is : Tyler 
+I am a : Junio
+My major is : Comp Sci
+I like : Programming
+
+working directior to the staging area
+to go from working directory to the stagining area you will use git add
+to go from staging area you will use (git push origin tygit) and that will upload your work to the local reposity
+the push request will result in a pull request to the admin user and they can accept or deny
+git commit -, "message about what you changed" This will save all your files and the message will be a message about what the changes are.
